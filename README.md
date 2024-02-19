@@ -1,4 +1,4 @@
-# NN_course
+# ML2_course
 Machine learning 2 course from [RTU MIREA](https://www.mirea.ru/) (spring 2024)
 
 # Tasks
